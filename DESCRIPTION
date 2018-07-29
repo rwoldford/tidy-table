@@ -1,0 +1,22 @@
+Package: tidytable
+Version: 0.0-1
+Encoding: UTF-8
+Title: Tidy Up And Rearrange Tables To Better Reveal Data Patterns
+Description: Produce a tidy table by applying rules to reorganise rows, columns and entries of a given table so as to better reveal data patterns.
+Authors@R: c(person(given = "Wayne", family = "Oldford", role = c("aut", "cre"),
+                    email = "rwoldford@uwaterloo.ca"),
+	     person(given = "Xiaomei", family = "Yu", role = "aut",
+                    email = "strawberryxiaomei@gmail.com"))
+Author: Wayne Oldford [aut, cre],  Xiaomei Yu [aut]
+Maintainer:  Wayne Oldford <rwoldford@uwaterloo.ca>
+Depends: R (>= 3.1.3)
+Imports:
+    Hmisc (>= 3.16-0),
+    plyr (>= 1.8.1)
+Suggests:
+Enhances:
+License: GPL-2 | GPL-3
+NeedsCompilation: no
+Repository: CRAN
+Date/Publication: 2015-09-17 12:00:00
+
